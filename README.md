@@ -1,4 +1,4 @@
 # GGSDDU
 > Good good study, day day up.
 
-[Wiki](https://github.com/dxinl/GGSDDU/wiki)
+All writings had been moved to my [github.io](https://dxinl.github.io).
